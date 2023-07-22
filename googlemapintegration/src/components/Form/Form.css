@@ -1,0 +1,12 @@
+.input_section {
+  margin: 5rem 0;
+}
+/* input */
+.input_section input {
+  padding: 1rem 5rem;
+  border-radius: 10px;
+  border: 2px solid #ccc;
+}
+.google_map{
+  margin: 5rem 3rem;
+}
